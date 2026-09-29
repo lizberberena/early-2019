@@ -8,6 +8,10 @@
 	background: #4D00E2;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 div.container-fluid {
 	padding-right: 20px;
 	padding-left: 20px;
